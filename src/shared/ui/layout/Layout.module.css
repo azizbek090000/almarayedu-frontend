@@ -1,0 +1,9 @@
+.layoutBg {
+  background-color: light-dark(var(--mantine-color-gray-0), var(--mantine-color-dark-5));
+}
+
+.scrollContainer {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  height: calc(100vh - 85px);
+}
